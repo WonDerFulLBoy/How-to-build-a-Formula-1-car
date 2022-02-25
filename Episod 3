@@ -1,0 +1,33 @@
+From the first design sketches to the winter test in Barcelona, it takes about 12 months to build a Formula One car. Here we will follow the story of the birth of a Formula One car in four parts with a close look, by Renault technical director Mr. Nick Chester.
+Dual constraints
+Once the design of the Formula 1 car is complete, a production process must be formed. Team engineers are faced with the fact that the design and production of each of the 20,000 components that make up a new Formula 1 car can be daunting. To minimize it, the process of designing non-mechanical parts such as the car body or shell must be influenced by two key elements: volume (which must have acceptable aerodynamic effects) and strength (which can guarantee the rigidity of the part). .
+
+It is crucial not to consider both cases in the production process of the piece, how much it is more or less, depending on its location, ie the external or internal part. For example, the front wing of a car can have a specific geometry based on aerodynamics, but its strength and rigidity must also be considered. Mechanical parts such as dampers, steering rods and their components, transmission system, brakes, etc. must be robustly designed and manufactured. With the view that they have the least possible weight and have the desired performance.
+Shape
+The aerodynamics of a Formula 1 machine have two main elements to design: 1- Wind tunnel 2- Computational fluid dynamics (CFD)
+
+Computational fluid dynamics can be a virtual wind tunnel, which allows teams to simulate the machine in real size and measure the air quality produced by the machine parts. Teams trust this virtual design and explore their ideas before the designs are turned into models and tested in a wind tunnel.
+
+Working in a wind tunnel can not have virtual simulation facilities. Features specified under several sensors only give you car information. Currently, the only complement to virtual simulation is the wind tunnel. Inside a wind tunnel, a Formula 1 team puts a model that is typically 60% of the original size under certain conditions. Moves) or bypass the screws. The wind tunnel can reconstruct the condition of the racetracks and show the effects of each part of the track on different parts of the car. When determining the aerodynamics of a car, they can apply a certain amount of air to the car in different positions to get a certain amount of downward force in a certain window of the track.
+
+Once they have determined and achieved a certain volume, the details of the designed parts of the machine go to the next step to be under software such as AutoCAD or Katia to help design the parts on the computer. At this point, Formula 1 teams begin repetitive back-and-forth processes to fully achieve aerodynamics, stiffness, and design detail. In fact, in the process of designing parts, the aerodynamic details of the part must be considered, but at the same time, one must keep an eye on the weight and stiffness of the part.
+Hardness
+A Formula 1 Grand Prix car is affected by several factors. For example, the car body is subjected to the forces exerted by the car's suspension, while the engine and powertrain apply a significant amount of force to the car's rear suspension. Likewise, the front wing and the insole of the car must both be subjected to extremely high forces in an aerodynamic balance.
+
+How does a Formula 1 engineer know how hard and rigid the parts are? There are two valuable sources of information that, with the help of a good idea, can measure the amount of force applied to the car chassis. One of them is the information received from the previous car and the other is the amount of forces tested by the technical team of the International Automobile Federation under the tests and its amount has been collected and provided to the teams.
+
+To calculate the stiffness of an object or part, Formula 1 engineers use finite part analysis. So that the piece is divided into several parts or limited pieces, before applying different forces. In this way, teams can examine different levels of deformation of parts in general. In this way, they can magnify different parts and actuators of tilted parts to strengthen the damaged part in terms of endurance.
+Design stage
+
+Nick Chester says:
+
+This stage can be a revolution from the team's previous machine.
+
+We start with virtual simulation and then go into the wind tunnel so we can test our designs. But if our design does not work, for example, we have to change the car fins again and return to the first stage, the virtual simulation of the car. Sometimes, we go through resistance tests very quickly, but we soon come to the conclusion that we need to change the design and shape of the part.
+
+For mechanical parts we do not have direct aerodynamic forces, in fact there is a significant simulation. For example, the rear suspension of the car that is connected to the gearbox must be redesigned. The designer is faced with a form in AutoCAD that has to go to the Reinforcement Department to see if the piece needs to be made stronger or a little lighter. This process can move between the design department and the reinforcement department so that you have both the right weight and the ideal strength. In all parts, there are repeated steps to perform each action.
+Engine test
+
+Computer resistance testing is a virtual operation. That's why you need to recreate the conditions of a real race, which you have to do through the dino test. Formula One teams perform various dino tests to apply force to various parts of the car, such as the suspension, gearbox, engine, and so on. Failure of parts usually occurs in minor cases that are not usually seen in the design and fatal defects must be discovered and repaired before the car is placed on the track.
+
+Once the strength and shape of the parts are fully understood, we begin to design the details of the car to produce them into parts that can be used to make a car. This is a requirement of the fourth part of the story of building a Formula 1 car
